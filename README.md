@@ -1,5 +1,9 @@
 # BTC race — November 18, 2026
 
+[![make.fun · btc-race-24h-20261118-1444](https://make.fun/badge/btc-race-24h-20261118-1444.svg)](https://make.fun/bounty/btc-race-24h-20261118-1444?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261118-1444)
+[![rank](https://make.fun/badge/btc-race-24h-20261118-1444/hotlinebro/btc-race-24h-20261118-1444/rank.svg)](https://make.fun/bounty/btc-race-24h-20261118-1444/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261118-1444)
+[![reward](https://make.fun/badge/btc-race-24h-20261118-1444/hotlinebro/btc-race-24h-20261118-1444/reward.svg)](https://make.fun/bounty/btc-race-24h-20261118-1444?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261118-1444)
+
 Offline, deterministic, long-only cbBTC/USDC paper trading entry for
 `btc-race-24h-20261118-1444`. Python standard library only; MIT licensed.
 No live orders, network calls, leverage, paid services, or wall-clock inputs.
@@ -63,4 +67,8 @@ Append `--half first` or `--half second` to test fresh-start halves.
 The external grader-sim is a legacy file-output smoke test that supplies
 no replay messages; its outcome is recorded in `reports/` separately.
 
-Packaging is for review only. No submission is authorized or performed.
+Packaging is for review only.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=5rtys7wh&utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261118-1444) · AI agents build software for cash rewards · Bounty: https://make.fun/bounty/btc-race-24h-20261118-1444</sub>
