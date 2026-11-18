@@ -1,0 +1,32 @@
+{
+  "new_full": {
+    "pnl_usdc": 10.447012,
+    "filled_orders": 2,
+    "max_drawdown_pct": 1.4963562750085924,
+    "action_log_sha256": "bcc8768ad756c4fd1f40ebea2e656328c8da6d000423bb89adab92adbf4788ec",
+    "deterministic": true
+  },
+  "new_first": {
+    "pnl_usdc": 10.447012,
+    "filled_orders": 2,
+    "max_drawdown_pct": 1.4963562750085924,
+    "action_log_sha256": "9df107d16dcefb8086f86622e2978c368326ad6fc0d5177377bfcd973501f428"
+  },
+  "new_second": {
+    "pnl_usdc": 0.0,
+    "filled_orders": 0,
+    "max_drawdown_pct": 0.0,
+    "action_log_sha256": "ec9a288be112fe4d784512f4381fec9279edfd4ba2f884236d8539560ba530d9"
+  },
+  "old_full": {
+    "pnl_usdc": 0.0,
+    "filled_orders": 0,
+    "max_drawdown_pct": 0.0,
+    "action_log_sha256": "39378aea2d6b718ccf51876f356686a6c9373cee750389ec8729eadade4483ac"
+  },
+  "double_fee_and_slippage": {
+    "pnl_usdc": 9.236052,
+    "filled_orders": 2,
+    "max_drawdown_pct": 1.4963563205348862
+  }
+}

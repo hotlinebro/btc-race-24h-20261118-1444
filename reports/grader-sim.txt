@@ -1,0 +1,11 @@
+=== grade-sim ===
+repo: /home/hatch/workspace/makefun/btc-race-24h-20261118-1444
+entry: main.py (python3 -P -s)
+input: /home/hatch/workspace/makefun/btc-race-24h-20261118-1444-kit/btc-race-24h-20261118-1444-kit/dataset
+wall time: 0s (limit 300s)
+exit code: 1
+output files:
+--- stdout/stderr (100 baris terakhir) ---
+unshare: unshare failed: Operation not permitted
+=== verdict ===
+FAIL — exit code 1 (grader akan menolak entry ini: run_completes)

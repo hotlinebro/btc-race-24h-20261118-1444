@@ -1,0 +1,1 @@
+makefun bundle: --muse-usage /home/hatch/workspace/makefun/btc-race-24h-20261118-1444/artifacts/muse-usage.json holds no usage row: write the rows the muse.db SELECT returns, one JSON object per line ({"agent_id", "message_id", "created_at", "input_tokens", "output_tokens", "model"})
